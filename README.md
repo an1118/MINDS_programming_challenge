@@ -1,5 +1,10 @@
 # MINDS_programming_challenge
 
+## Summary of Results
+I did sentiment analysis on titles, abstracts and contents respectively, and found that most sentiment scores of titles and abstracts are zero.
+
+The sentiment analysis of contents shows that more than half articles are negative.
+
 ## Data Format
 Data is stored in the json file. The following information from each article has been collected:
 - Title
