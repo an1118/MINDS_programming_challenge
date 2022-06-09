@@ -1,0 +1,11 @@
+# list of packages required in this code file
+requests
+bs4
+pandas
+re
+json
+tqdm
+pyenchant
+nltk
+nltk
+plotly
